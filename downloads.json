@@ -1,19 +1,5 @@
-
 [
-  {
-    "name": "Start Game bat for iw8 (temp down)",
-    "url": "https://cdn.discordapp.com/attachments/1558017015061549098/1558018188652974200/StartGame.bat?ex=6ae1a402&is=6ae05282&hm=bdfe1b69fcb259919b82f8cbed4bfab1bfaa24262275149911d39797c719e5de&"
-  },
-  {
-    "name": "brynhildr.sys for iw8",
-    "url": "https://gofile.io/d/ANSyovJj"
-  },
-  {
-    "name": "Version.dll for iw8 (temp down)",
-    "url": "https://cdn.discordapp.com/attachments/1558017015061549098/1558018137558097940/version.dll?ex=6ae1a3f6&is=6ae05276&hm=10f0693c7faf8920df6ac72854f608b6478952079b21a8c4bd18a4c5e56055d3&"
-  },
-  {
-    "name": "Update file 2.01 extract copy the stuff and put in game files! for lumen (temp down)",
-    "url": "https://cdn.discordapp.com/attachments/1517419514705477793/1557539425423196281/2.0.1.rar?ex=6ae1e060&is=6ae08ee0&hm=f33132c0091947739078b9e7c84403f52ec64bc4a60c4625b1dc8c4e923675b6&"
-  }
+  {"name": "_StartGame.bat", "url": "https://jwnxdcmbzthvwpkbewhk.supabase.co/storage/v1/object/public/launcher-downloads/Games/_StartGame.bat"},
+  {"name": "brynhildr.sys", "url": "https://jwnxdcmbzthvwpkbewhk.supabase.co/storage/v1/object/public/launcher-downloads/Games/brynhildr.sys"},
+  {"name": "version.dll", "url": "https://jwnxdcmbzthvwpkbewhk.supabase.co/storage/v1/object/public/launcher-downloads/Games/version.dll"}
 ]
